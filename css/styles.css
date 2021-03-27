@@ -756,3 +756,8 @@ img {
   visibility: hidden;
   pointer-events: none;
 }
+
+.modal-form {
+  display: flex;
+  flex-direction: column;
+}
